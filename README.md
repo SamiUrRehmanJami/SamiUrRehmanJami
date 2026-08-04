@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SamiUrRehmanJami?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SamiUrRehmanJami&label=Public%20Repos&query=public_repos&style=for-the-badge&color=blue&logo=github" />
 </p>
 
 ---
