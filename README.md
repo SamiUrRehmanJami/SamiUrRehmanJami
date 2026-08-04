@@ -13,6 +13,17 @@
   <img src="https://komarev.com/ghpvc/?username=SamiUrRehmanJami&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available%20for%20Freelance-blueviolet?style=for-the-badge&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actively%20Building-orange?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SamiUrRehmanJami?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SamiUrRehmanJami&label=Public%20Repos&query=public_repos&style=for-the-badge&color=blue&logo=github" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -33,7 +44,7 @@ Currently at **SeeBiz**, I build and own features across three production platfo
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,mongodb,postgres,redis,elasticsearch,docker" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,mongodb,postgres,redis,elasticsearch,docker,git,postman,vscode,figma,linux,aws" alt="Tech stack icons" />
 </p>
 
 ---
