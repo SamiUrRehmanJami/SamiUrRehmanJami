@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sami Ur Rehman Jami</h1>
-<h3 align="center">Senior MERN/MEAN Stack Engineer | React · Next.js · Angular · Node · MongoDB | LLM/RAG AI Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sami%20Ur%20Rehman%20Jami&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Senior%20MERN%2FMEAN%20Stack%20Engineer&descAlignY=62&descSize=18" width="100%" />
+</p>
 
-<p align="center">📍 Lahore, Punjab, Pakistan</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+Node+%C2%B7+MongoDB;LLM+%2F+RAG+AI+Systems+Builder;5%2B+Years+Shipping+Production+SaaS" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SamiUrRehmanJami&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
@@ -22,20 +32,8 @@ Currently at **SeeBiz**, I build and own features across three production platfo
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,mongodb,postgres,redis,elasticsearch,docker" alt="Tech stack icons" />
 </p>
 
 ---
@@ -70,6 +68,30 @@ A cybersecurity conference platform (comparable in scope to RSA Conference) feat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiUrRehmanJami&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiUrRehmanJami&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamiUrRehmanJami&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ### 📫 Contact Me
@@ -78,4 +100,8 @@ A cybersecurity conference platform (comparable in scope to RSA Conference) feat
   <a href="https://www.linkedin.com/in/samiurrehmanjami/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:samiakbar680@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
   <a href="https://sami-ur-rehman-porfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </p>
