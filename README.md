@@ -118,4 +118,4 @@ A cybersecurity conference platform (comparable in scope to RSA Conference) feat
 
 Last updated: automation housekeeping pass.
 
-Last updated: automation housekeeping pass.
+Maintained with care.
