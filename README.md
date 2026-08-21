@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/github/followers/SamiUrRehmanJami?label=Followers&style=for-the-badge&logo=github&color=0e75b6" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&animation=grow_out_center" alt="Dev quote" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -78,6 +82,14 @@ A cybersecurity conference platform (comparable in scope to RSA Conference) feat
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiUrRehmanJami&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
 </p>
 
 ---
