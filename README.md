@@ -71,23 +71,13 @@ A cybersecurity conference platform (comparable in scope to RSA Conference) feat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamiUrRehmanJami&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiUrRehmanJami&layout=compact&hide_border=true" />
+ <img src="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/main/profile-summary-card-output/nightowl/3-stats.svg" /> <img src="https://raw.githubusercontent.com/SamiUrRehmanJami/SamiUrRehmanJami/main/profile-summary-card-output/nightowl/1-repos-per-language.svg" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiUrRehmanJami&hide_border=true" />
-</p>
+    <img src="https://streak-stats.demolab.com/?user=SamiUrRehmanJami&hide_border=true" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiUrRehmanJami&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamiUrRehmanJami&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
