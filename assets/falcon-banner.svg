@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Sami Ur Rehman Jami - Senior MERN/MEAN Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e1a"/>
+      <stop offset="0.5" stop-color="#0d1326"/>
+      <stop offset="1" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="falconGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect x="0" y="0" width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#sheen)"/>
+
+    <g fill="#58a6ff" opacity="0.10">
+      <circle cx="120" cy="40" r="1.5"/><circle cx="330" cy="60" r="1.5"/><circle cx="80" cy="210" r="1.5"/>
+      <circle cx="300" cy="30" r="1.5"/><circle cx="60" cy="120" r="1.5"/><circle cx="360" cy="200" r="1.5"/>
+      <circle cx="920" cy="60" r="1.5"/><circle cx="860" cy="210" r="1.5"/><circle cx="960" cy="150" r="1.5"/>
+    </g>
+
+    <g stroke="#58a6ff" stroke-width="2" stroke-linecap="round">
+      <line x1="40" y1="98" x2="150" y2="98" opacity="0.4">
+        <animate attributeName="x1" values="40;12;40" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.1;0.55;0.1" dur="2.4s" repeatCount="indefinite"/>
+      </line>
+      <line x1="26" y1="132" x2="176" y2="132" opacity="0.5">
+        <animate attributeName="x1" values="26;0;26" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.65;0.15" dur="2s" repeatCount="indefinite"/>
+      </line>
+      <line x1="46" y1="166" x2="150" y2="166" opacity="0.4">
+        <animate attributeName="x1" values="46;20;46" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2.8s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <g filter="url(#glow)" fill="url(#falconGrad)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -7; 0 0" dur="4s" repeatCount="indefinite"/>
+        <g transform="translate(212,126) scale(1.18)">
+          <path d="M0,-47 L3,-39 C7,-37 8,-30 4,-23 C6,-6 6,2 6,14 L16,55 L2,46 L0,53 L-2,46 L-16,55 L-6,14 C-6,2 -6,-6 -4,-23 C-8,-30 -7,-37 -3,-39 L0,-47 Z"/>
+          <g>
+            <animateTransform attributeName="transform" type="rotate" values="0 6 -8; -4 6 -8; 0 6 -8" dur="3.2s" repeatCount="indefinite"/>
+            <path d="M6,-9 C44,-25 92,-32 136,-29 C97,-17 53,-5 15,11 Z"/>
+          </g>
+          <g>
+            <animateTransform attributeName="transform" type="rotate" values="0 -6 -8; 4 -6 -8; 0 -6 -8" dur="3.2s" repeatCount="indefinite"/>
+            <path d="M-6,-9 C-44,-25 -92,-32 -136,-29 C-97,-17 -53,-5 -15,11 Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <text x="410" y="108" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="35" font-weight="800" fill="#e6edf3" letter-spacing="1.2">SAMI UR REHMAN JAMI</text>
+    <text x="412" y="142" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#58a6ff" letter-spacing="2.6">SENIOR MERN / MEAN STACK ENGINEER</text>
+    <text x="412" y="180" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#8b98a8" letter-spacing="4.5">PRECISION &#160;&#183;&#160; SPEED &#160;&#183;&#160; VISION</text>
+
+    <rect x="412" y="120" width="0" height="3" rx="1.5" fill="url(#accentLine)">
+      <animate attributeName="width" values="0;430" dur="2.2s" begin="0.3s" fill="freeze"/>
+    </rect>
+
+    <rect x="1" y="1" width="998" height="258" rx="18" fill="none" stroke="#58a6ff" stroke-opacity="0.25" stroke-width="1.5"/>
+  </g>
+</svg>
